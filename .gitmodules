@@ -1,0 +1,3 @@
+[submodule "Ref/aws-iot-device-sdk-python"]
+	path = Ref/aws-iot-device-sdk-python
+	url = https://github.com/artmusic0/aws-iot-device-sdk-python.git
